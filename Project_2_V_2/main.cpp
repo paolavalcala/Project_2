@@ -4,7 +4,7 @@
  * Author: Paola Alcala
  *
  * Created on December 3, 2024, 6:38 PM
- * Purpose: Project 2 Version 1
+ * Purpose: Project 2 Version 2
  */
 
 //System Libraries
